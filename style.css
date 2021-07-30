@@ -1,0 +1,16 @@
+.grid-box {
+    width: 95vw;
+    height: 80vh;
+    margin: auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}
+
+.button {
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
